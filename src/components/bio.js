@@ -34,14 +34,13 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              My name is <strong>{author}</strong>. I live and work in Paris. Founder and CTO of <a href='http://www.bam.tech'>BAM</a>.
+            {` `}
+              Follow me on <a href={`https://twitter.com/${social.twitter}`}>
+                Twitter
               </a>
             </p>
-          </Container>
+          </Container >
         )
       }}
     />
