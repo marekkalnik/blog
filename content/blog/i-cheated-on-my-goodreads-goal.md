@@ -27,4 +27,4 @@ At last, it added 250 pages to my read-count. It made 2021 my best reading year,
 
 I am starting the 2022, having set myself to read 15 books and promising myself I will be more consistent. But I also know that if by the end of the year I will be a little short on my goal, I won't let go. I will just try to "cheat" and reach it a smarter way.
 
-PS. I finished "Career superpowers" on the plane January 2nd. I don't care, It still counts for 2021. Psychology research has show that accepting slip-ups leads to better outcomes. We let ourselves recover instead of completely invalidating our goals. So I started my 2022 full of resolve instead of feeling like a failure. You should give yourself some slack too.
+PS. I finished "Career superpowers" on the plane January 2nd. I don't care, It still counts for 2021. Psychology research has shown that accepting slip-ups leads to better outcomes. We let ourselves recover instead of completely invalidating our goals. So I started my 2022 full of resolve instead of feeling like a failure. You should give yourself some slack too.
