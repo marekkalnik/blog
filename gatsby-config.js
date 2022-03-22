@@ -10,13 +10,12 @@ module.exports = {
     },
   },
   plugins: [
-    `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-feed-mdx`,
+    //`gatsby-plugin-feed-mdx`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -49,9 +48,6 @@ module.exports = {
             },
           },
           {
-            resolve: `gatsby-remark-vscode`,
-          },
-          {
             resolve: `gatsby-remark-copy-linked-files`,
           },
           {
@@ -60,6 +56,7 @@ module.exports = {
         ],
       },
     },
+    /*
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -67,6 +64,7 @@ module.exports = {
         // trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
+    */
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

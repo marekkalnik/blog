@@ -1,7 +1,7 @@
 ---
 title: "I cheated on my yearly Goodreads goal"
 date: 2022-02-06
-description: Some not so bad things coming from being focused on a goal... And trying to be smart about it.
+description: "Some not so bad things coming from being focused on a goal... And trying to be smart about it."
 ---
 
 End of November it became clear to me - I wasn't going to do it.

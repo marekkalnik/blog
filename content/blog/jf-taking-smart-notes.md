@@ -1,7 +1,7 @@
 ---
 title: 'Just finished: "Taking Smart Notes" by Sönke Ahrens'
 date: 2021-02-03
-description: My "in the moment" review of Taking Smart Notes
+description: 'My "in the moment" review of Taking Smart Notes'
 ---
 
 I have just finished reading _Taking Smart Notes_ by Sönke Ahrens. This is a rather short read, totaling a bit over 3h according to my Kobo.

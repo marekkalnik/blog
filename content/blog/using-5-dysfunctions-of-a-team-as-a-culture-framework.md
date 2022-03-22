@@ -1,7 +1,7 @@
 ---
 title: "Using 5 dysfunctions of a team as a culture framework "
 date: 2022-03-22
-description: How we are using a book to support our company culture.
+description: "How we are using a book to support our company culture."
 ---
 
 ## A key book that helps us maintain healthy company culture

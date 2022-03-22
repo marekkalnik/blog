@@ -1,7 +1,7 @@
 ---
 title: "How to divide the number of bugs at your company by 4"
 date: 2021-11-10
-description: Sharing BAM defect analysis template that I was talkig about on Tech.Rocks Meetup
+description: "Sharing BAM defect analysis template that I was talking about on Tech.Rocks Meetup"
 ---
 
 In September we have organized a [Tech.Rocks](http://www.tech.rocks/) [meetup](https://www.youtube.com/watch?v=C9IhY_h1h_Y) around quality. We met with [Celine Gilet](https://twitter.com/celinegilet) and [Dimitri Baeli](https://twitter.com/dbaeli) to discuss different metrics and reactions to quality problems.
